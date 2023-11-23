@@ -7,3 +7,5 @@
 /jcre-reports/assets/localCSV/2023/JC Team Sales Report (Export)_Jul2023.csv
 /jcre-reports/assets/localCSV/2023/JC Team Sales Report (Export)_Aug2023.csv
 /jcre-reports/assets/localCSV/2023/JC Team Sales Report (Export)_Sep2023.csv
+/jcre-reports/assets/localCSV/2023/JC Team Sales Report (Export)_Oct2023.csv
+/jcre-reports/assets/localCSV/2023/JC Team Sales Report (Export)_Nov2023.csv
