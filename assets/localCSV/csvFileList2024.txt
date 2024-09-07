@@ -2,3 +2,7 @@
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Feb2024.csv
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Mar2024.csv
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Apr2024.csv
+/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_May2024.csv
+/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Jun2024.csv
+/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Jul2024.csv
+/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Aug2024.csv
