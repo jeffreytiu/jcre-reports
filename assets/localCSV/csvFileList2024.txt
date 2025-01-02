@@ -4,5 +4,9 @@
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Apr2024.csv
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_May2024.csv
 /jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Jun2024.csv
-/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Jul2024.csv
-/jcre-reports/assets/localCSV/2024/JC Team Sales Report (Export)_Aug2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Jul2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Aug2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Sep2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Oct2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Nov2024.csv
+/jcre-reports/assets/localCSV/2024/JCRE Report (MLS Sales Report)_Dec2024.csv
