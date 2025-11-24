@@ -1,12 +1,12 @@
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Jan2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Feb2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Mar2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Apr2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_May2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Jun2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Jul2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Aug2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Sep2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Oct2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Nov2025.csv
-/jcre-reports/assets/localCSV/2025/JCRE Report (MLS Sales Report)_Dec2025.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202501.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202502.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202503.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202504.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202505.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202506.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202507.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202508.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202509.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202510.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202511.csv
+/jcre-reports/assets/localCSV/2025/JCRE Sale Report_DATA_202512.csv
